@@ -1,0 +1,13 @@
+{
+  "name": "data-structures",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Philipe Cortez <philipe.sousa@locaweb.com.br>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
